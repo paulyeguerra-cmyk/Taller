@@ -1,0 +1,6 @@
+{
+  "name": "Taller: Buyer Persona & Mapa de Empatía",
+  "description": "Guía práctica interactiva con post-its, videos explicativos y casos reales para crear Buyer Personas y Mapas de Empatía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
